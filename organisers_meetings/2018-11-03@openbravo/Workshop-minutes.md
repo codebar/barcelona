@@ -55,7 +55,7 @@
 #### Gains
 ![Hosts Gains](h-gain.jpg?raw=true "Hosts gains")
 
-* Cluster 1: (4 votes)
+* Cluster 1: (5 votes)
   * Build Community
   * Build Community
   * Higher engagement to local causes
