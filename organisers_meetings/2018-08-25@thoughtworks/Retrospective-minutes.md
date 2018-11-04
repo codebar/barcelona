@@ -1,4 +1,4 @@
-# Retrospective 2018-02-01 (Hosted @ Lemonade)
+# Retrospective 2018-02-01 (Hosted @ Thoughtworks)
 
 
 # Participants:
