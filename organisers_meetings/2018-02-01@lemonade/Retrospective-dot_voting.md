@@ -3,6 +3,7 @@
 # Participants:
 * Amalia
 * Irina
+* Karoline
 * Lori
 * Cvetan
 * Martin
