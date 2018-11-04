@@ -8,7 +8,7 @@
 * Martin
 
 # Output
-![Retro board](Retrospective - board.jpg?raw=true "Retrospective Board")
+![Retro board](/Retrospective - board.jpg?raw=true "Retrospective Board")
 
 # Dot voting results
 * We want to get feedback from Students, Hosts, Coaches, Organizers
