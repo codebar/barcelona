@@ -1,4 +1,4 @@
-# Retrospective 2018-11-03 (Hosted @ Openbravo)
+# Workshop 2018-11-03 (Hosted @ Openbravo)
 
 
 # Participants:
