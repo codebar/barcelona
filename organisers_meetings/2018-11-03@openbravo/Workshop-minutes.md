@@ -36,8 +36,8 @@ TODO: We need more feedback!
 #### Do
 
 * Register. BC
-* come regulary. D
-* Collaborate amon them. D
+* come regularly. D
+* Collaborate among them. D
 * Drop out (sooner or later). AC
 
 #### Think
