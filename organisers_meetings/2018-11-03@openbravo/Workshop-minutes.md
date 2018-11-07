@@ -25,6 +25,38 @@
 
 ![Say, Think, Do, Feel - Students](say-think-do-feel-students.jpg?raw=true "Say, Think, Do, Feel - Students")
 
+#### Say
+
+* Is it for me? BC
+* Cool initiative. D
+* Thanks. AC
+
+TODO: We need more feedback!
+
+#### Do
+
+* Register. BC
+* come regularly. D
+* Collaborate among them. D
+* Drop out (sooner or later). AC
+
+#### Think
+
+* How does it works? BC
+* Curiosity. BC/D
+* How this could be free. D
+* Useful? Yes/no
+
+### Feel
+
+* Anxious. BC
+* Unsure of how it works
+* Excited. D
+* Not alone. D (AC?)
+* Safe. D
+* Supported. D Partially AC
+* Grateful. D & AC
+
 ### Coaches
 
 ![Say, Think, Do, Feel - Coaches](say-think-do-feel-coaches.jpg?raw=true "Say, Think, Do, Feel - Coaches")
