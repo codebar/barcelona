@@ -39,6 +39,38 @@
 #### Pains
 ![Student Pains](s-pain.jpg?raw=true "Student pains")
 
+* Cluster 1: Job/career related. (10 votes)
+    * Want a job in tech and not sure where to start (5 votes)
+    * Making a career change and getting guidance with this (2 votes)
+    * Job/career opportunities (1 vote)
+    * They want to find a job (1 vote)
+    * Getting guidance on what the next steps can be (1 vote)
+    * Networking to find out about companies that are hiring
+    * Jobless
+    * Blocked
+
+* Cluster 2: For support learning new technologies (4 votes)
+    * Students who have never coded before and want to see what it is about (1 vote)
+    * Too hard/hard to learn coding (1 vote)
+    * They are stuck in their project (1 vote)
+    * Specific problem, e.g., "I want to learn Docker" (1 vote)
+    * Need tech support for project/assignment
+    * They want to learn a different language
+    * Don't know how to code.
+    * Not feeling capable to learn/advance
+    * Find online tools difficult
+    * Lost/ don't know what to learning
+    * They don't understand their work
+
+* Cluster 3: For support/community (No votes)
+    * They feel insecure
+    * They want to meet people
+    * Careers switches looking for a social environment
+    * Looking for an intellectual activity/social event
+    * Meeting other people so they don't feel alone
+    * Self-taught looking for structure
+    * Alone in their learning
+
 #### Gains
 ![Student Gains](s-gain.jpg?raw=true "Student gains")
 
