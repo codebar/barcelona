@@ -74,6 +74,56 @@ TODO: We need more feedback!
 #### Gains
 ![Student Gains](s-gain.jpg?raw=true "Student gains")
 
+* Cluster 1: (6 votes)
+  * Get a Job
+  * To become job ready (for frequent students)
+  * Transition into a new career
+
+* Cluster 2: (3 votes)
+  * Safe place
+  * Feel accepted
+
+* Cluster 3 ( 2 votes)
+  * Networking * companies hiring
+
+* Cluster 4 (2 votes)
+  * Know IT companies
+  * See what different companies do
+
+* Cluster 5 (2 votes)
+  * Friends
+  * Friendship
+  * Meet other people with same interest/aspirations
+  * Network with people
+  * Meet like-minded people who like tech/learning
+
+* Cluster 6 ( 1 vote)
+  * Knowledge
+  * Learn a new tech
+  * Get skills to get further in their career
+  * To learn something Useful
+  * Learn how to Learn
+  * Learn tools they don't know
+  * Learn how to code
+
+* Cluster
+  * See the culture /office space at different companies
+
+* Cluster
+  * Moral support -> examples of students that made it.
+
+* Cluster
+  * Get motivation to continue coding frequently
+
+* Cluster
+  * Guidance
+  * A person to contact (coach)
+
+* Cluster
+  * Help with coding problem
+  * Find expert to help with projects
+  * Progress on their work
+
 ### Coaches
 #### Pains
 ![Coaches Pains](c-pain.jpg?raw=true "Coaches pains")
