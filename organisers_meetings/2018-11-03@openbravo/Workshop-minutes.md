@@ -55,11 +55,11 @@
 * Cluster 1: (3 votes 🗳 )
   * No diversity in Tech
   * Get different people on board
-  * Not enaiugh jdiversity in tech,they are taking a stand, a public statment of support for diversity
+  * Not enough diversity in tech,they are taking a stand, a public statment of support for diversity
   * Contribute to cause for diversity
 
   * Close to cluster 1:
-    * I wan't to give back
+    * I want to give back
     * Looking for a Community
     * Social Responsability Debt
     * They need to have evidence that they support diversity
