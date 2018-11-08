@@ -109,6 +109,48 @@ TODO: We need more feedback!
 ### Coaches
 #### Pains
 ![Coaches Pains](c-pain.jpg?raw=true "Coaches pains")
+
+* Cluster 1: (3 votes)
+  * Contribute outside work (relaxed)
+  * Give back to the society
+  * Wanting to feel like their work makes a difference in the world.
+  * Want to feel Useful
+  * How do I give back
+  * I have a person that wants to learn and I want to coach them
+
+* Cluster 2: (1 votes)
+  * No diversity in tech
+  * Frustration that tech industry is not diverse
+  * I want to work with "nice" people
+
+* Cluster 3: (1 vote)
+  * Network with other devs
+  * Networking - meet other professionals and recruiters
+  * Be more socially active
+
+* Cluster 4: (no votes)
+  * Seeking new challenges to teach or feel appreciated
+  * Not recognized
+
+* Cluster 5: (no votes)
+  * Want to improve skills to further their career in a place where their performance is not measured
+  * Do not have soft skills
+  * Lack of soft skills
+  * Improving teaching skills
+
+* Cluster 6: (no votes)
+  * Boring
+  * Find job tedious / uninspiring. Looking for inspiration
+
+* Cluster 7: (no votes)
+  * Alone
+  * Want to meet people outside job but within comfort zone
+  * Not liked
+
+* Cluster 8: (no votes)
+  * Feel insecure and want to be an expert
+  * Learn
+
 #### Gains
 ![Coaches Gains](c-gain.jpg?raw=true "Coaches gains")
 
