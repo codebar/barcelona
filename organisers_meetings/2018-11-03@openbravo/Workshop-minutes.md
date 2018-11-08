@@ -61,6 +61,36 @@ TODO: We need more feedback!
 
 ![Say, Think, Do, Feel - Coaches](say-think-do-feel-coaches.jpg?raw=true "Say, Think, Do, Feel - Coaches")
 
+#### Say
+
+* give back to community.B
+* i want to help. D
+* Say they have experience. "i have 30 years experience" "i can teach anything" " i have 30 years in assembly. D
+TODO: we need more feedback
+
+#### Do
+
+* motivate people. D
+* coach. D
+* keep contact in between sessions. A
+* become an host or help with host. A
+* help with networking, connectiong to other meetups. A
+* lost interest. A
+
+#### Think
+
+* diversity is needed B
+* improve skills in a safe place B
+* Socialize with people with similar interests B
+* not sure if their time is well spent A
+
+#### Feel
+
+* insecure / lost / apprehensive B D
+* respectful D
+* appreciated A
+
+
 ### Hosts
 
 ![Say, Think, Do, Feel - Hosts](say-think-do-feel-hosts.jpg?raw=true "Say, Think, Do, Feel - Hosts")
