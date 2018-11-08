@@ -235,52 +235,52 @@ TODO: we need more feedback
 ![Coaches Gains](c-gain.jpg?raw=true "Coaches gains")
 
 * Cluster 1: (5 votes)
- * Improve soft skills
- * Improve technical skills
- * Learn coaching techniques
- * Practice
+  * Improve soft skills
+  * Improve technical skills
+  * Learn coaching techniques
+  * Practice
 
 * Cluster 2: (2 votes)
- * To feel like an expert
- * Helping a person in their journey
- * Recognition
- * See tangibly how their work makes a difference
- * Help people learn stuff
+  * To feel like an expert
+  * Helping a person in their journey
+  * Recognition
+  * See tangibly how their work makes a difference
+  * Help people learn stuff
 
 * Cluster 3: (1 vote)
- * Helping a good cause
- * Feeling good
- * Be appreciated
- * Sharing
- * See offices
- * Meet people interested in something similar
- * Social life
- * Friends
- * Community
- * To inspire others
+  * Helping a good cause
+  * Feeling good
+  * Be appreciated
+  * Sharing
+  * See offices
+  * Meet people interested in something similar
+  * Social life
+  * Friends
+  * Community
+  * To inspire others
 
 * Cluster 4: (1 vote)
- * Networking
- * Networking opportunities for jobs
- * Meet people socialize
+  * Networking
+  * Networking opportunities for jobs
+  * Meet people socialize
 
 * Cluster 5: (1 vote)
- * Free food
- * Beers and food    
+  * Free food
+  * Beers and food    
 
 * Cluster 6: (no votes)
- * Mapping vs in tech skills
- * Learn best by coaching
- * Strengthen their knowledge   
+  * Mapping vs in tech skills
+  * Learn best by coaching
+  * Strengthen their knowledge   
 
 * Cluster 7: (no votes)
- * To help diversify tech (if only for 4 hrs/month)
- * Finding meaning in a typical "business for profit" profession
+  * To help diversify tech (if only for 4 hrs/month)
+  * Finding meaning in a typical "business for profit" profession
 
 * Cluster 8: (no votes)
- * Thanks
- * Feeling good after an event
- * Feel good because somebody appreciates their work
+  * Thanks
+  * Feeling good after an event
+  * Feel good because somebody appreciates their work
 
 ### Hosts
 #### Pains
