@@ -84,6 +84,50 @@ TODO: We need more feedback!
 #### Pains
 ![Hosts Pains](h-pain.jpg?raw=true "Hosts pains")
 
+* Cluster 1: (3 votes 🗳 )
+  * No diversity in Tech
+  * Get different people on board
+  * Not enough diversity in tech,they are taking a stand, a public statment of support for diversity
+  * Contribute to cause for diversity
+
+  * Close to cluster 1:
+    * I want to give back
+    * Looking for a Community
+    * Social Responsability Debt
+    * They need to have evidence that they support diversity
+
+* Cluster 2: (1 vote 🗳 )
+  * Recruit
+  * Recruit talent, recruit, recruit
+  * Get coaches to work for them
+  * I can't find postulant
+  * Look attractive to potential workers
+  * Need more tech worker that are highly skilled
+  * hire developers
+
+  close to cluster 2:
+   * hire seniors at the juniors rates
+
+* Cluster 3 ( 1 vote 🗳 )
+  * Junior developer need training
+  * my staff need to practice
+
+  close to cluster 3:
+  * my staff need to acquire skills
+
+* Cluster 4:
+  * Visibility in community
+  * become popular in tech community
+  * get popular (Everyone else)
+  * people need to find out about their projects or company especially if they are new in BCN
+  * Want to be more visible in the BCN tech Community(meetups, conference ...)
+  * No one knows me
+
+* Cluster 5:
+  * Be in business, get clients
+
+
+
 #### Gains
 ![Hosts Gains](h-gain.jpg?raw=true "Hosts gains")
 
