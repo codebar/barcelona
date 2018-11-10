@@ -74,7 +74,7 @@ TODO: we need more feedback
 * coach. D
 * keep contact in between sessions. A
 * become an host or help with host. A
-* help with networking, connectiong to other meetups. A
+* help with networking, connecting to other meetups. A
 * lost interest. A
 
 #### Think
