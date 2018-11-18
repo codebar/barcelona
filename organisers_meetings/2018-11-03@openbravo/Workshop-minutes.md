@@ -74,7 +74,7 @@ TODO: we need more feedback
 * coach. D
 * keep contact in between sessions. A
 * become an host or help with host. A
-* help with networking, connectiong to other meetups. A
+* help with networking, connecting to other meetups. A
 * lost interest. A
 
 #### Think
@@ -94,6 +94,39 @@ TODO: we need more feedback
 ### Hosts
 
 ![Say, Think, Do, Feel - Hosts](say-think-do-feel-hosts.jpg?raw=true "Say, Think, Do, Feel - Hosts")
+
+#### Say
+
+* It's a good cause BC,AC
+* Promoting to their staff BC
+* Advertise their help AC
+* Promoting their company to the coaches D
+
+#### Do
+
+* Host and provide space drinks & food D
+* Provide their staff to us D
+* help us A B
+
+
+#### Think
+
+* support codebar mission BC, AC
+* It's a good cause  BC AC
+* What is it for us? BC
+* It's good publicity (selling or HR or good company)
+* They are reliable AC
+* easy win regarding diversity in Tech BC, AC
+* Is it worth it? AC
+* space food or budgets can be a problem
+* make company more visible
+
+#### Feel
+
+* Proud?
+* Good ?
+* Disappointed ? (too few students, miscommunication)
+TODO: we need more feedback
 
 ## Pain and gains
 
