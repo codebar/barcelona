@@ -20,7 +20,7 @@ barcelona@codebar.io
 
 |Host | CONTACT NAME |Contact Mail| Number of events | SPECIFIC PARAGRAPH | IMAGE |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|Thoughtworks Barcelona|Anemari|Afiser@thoughtworks.com|4|Thoughtworks for us is a very special location. Sharing our mission with your made each of the 4 sessions in your space a pleasure for everyone. It also encourages a lot our participants into diversity and we could not be more thankful for that.|[photo](tws.jpg)|
+|Thoughtworks Barcelona|||4|Thoughtworks for us is a very special location. Sharing our mission with your made each of the 4 sessions in your space a pleasure for everyone. It also encourages a lot our participants into diversity and we could not be more thankful for that.|[photo](tws.jpg)|
 |Softonic|||1|||
 |Qlik|||2|||
 |TravelPerk|||3|||
