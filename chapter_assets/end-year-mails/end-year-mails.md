@@ -21,14 +21,14 @@ barcelona@codebar.io
 |Host | CONTACT NAME |Contact Mail| Number of events | SPECIFIC PARAGRAPH | IMAGE |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |Thoughtworks Barcelona|||4|Thoughtworks for us is a very special location. Sharing our mission with your made each of the 4 sessions in your space a pleasure for everyone. It also encourages a lot our participants into diversity and we could not be more thankful for that.|[photo](tws.jpg)|
-|Softonic|||1|||
-|Qlik|||2|||
-|TravelPerk|||3|||
-|Barcelona Activa|||1|||
-|Ubiqum|||2|||
-|DepotLab|||2|||
-|Barcelona Code School|||5|||
-|The Typeform Beach House|||1|||
-|letgo|||1|||
-|Headway Digital|||1|||
-|King Barcelona|||1|||
+|Softonic|||1||[photo](softonic.jpg)|
+|Qlik|||2||[photo](qlik.jpg)|
+|TravelPerk|||3||[photo](travelperk.jpg)|
+|Barcelona Activa|||1||[photo](bcnactiva.jpg)|
+|Ubiqum|||2||[photo](ubiqum.jpg)|
+|DepotLab|||2||[photo](depotlab.jpg)|
+|Barcelona Code School|||5||[photo](bcncodeschool.jpg)|
+|The Typeform Beach House|||1||[photo](typeform.jpg)|
+|letgo|||1||[photo](letgo.jpg)|
+|Headway Digital|||1||[photo](headway.jpg)|
+|King Barcelona|||1|As the very first host, King helped kick off the codebar chapter in Barcelona.    |[photo](king.jpg)|
