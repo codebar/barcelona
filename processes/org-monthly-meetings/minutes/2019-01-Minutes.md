@@ -10,26 +10,12 @@
 
 ## Ongoing activities (30')
 
-* **Monthly meetings** by @jmbriano (10')
+* **Mission workshop** by @daverick (5')
+* **Christmas mails** by @jmbriano (5')
+* **Monthly meetings process** by @jmbriano (10')
+* **Next events planning** by @amaliacardenas (5')
 
 ## New initiatives (30')
 
 * **OOP workshop** by @loriking (10')
-
-# Minutes
-## Ongoing initiatives
-
-### Monthly meetings
-
-**Owner:** @jmbriano
-
-**Status:** ...
-
-
-## New initiatives
-
-### OOP workshop
-
-**Owner:** @loriking
-
-**Status:** ...
+* **Re-purpose Trello board (for events only) & publish 'procedures for setting up events'** by @jmbriano (10')
