@@ -1,4 +1,4 @@
-# Monthly organizers meeting minutes
+# Monthly organizers meeting Agenda and Meeting minutes
 
 **DATE:** 2019-01-04
 
@@ -19,3 +19,8 @@
 
 * **OOP workshop** by @loriking (10')
 * **Re-purpose Trello board (for events only) & publish 'procedures for setting up events'** by @jmbriano (10')
+
+## Next meeting
+
+* Location?
+* Facilitator?
