@@ -3,8 +3,7 @@
 **DATE:** 2019-01-04
 
 **PARTICIPANTS:** x, y (remotely), z
-
-**ABSENT:** a, b.
+**LOCATION:**
 
 # Agenda
 
