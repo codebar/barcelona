@@ -2,9 +2,9 @@
 
 **DATE:** 2019-01-04
 
-**PARTICIPANTS:** x, y (remotely), z
+**PARTICIPANTS:** @amaliacardenas, @loriking (remotely), @daverick, @jmbriano
 
-**ABSENT:** a,b
+**ABSENT:** @irina
 
 # Agenda
 
@@ -22,5 +22,45 @@
 
 ## Next meeting
 
-* Location?
-* Facilitator?
+* **Location:**
+* **Facilitator:**
+
+# Meeting minutes
+## Ongoing initiatives
+
+### Initiative 'Mission workshop'
+
+**Owner:** @daverick
+
+**Status:**
+
+### Initiative 'Christmas mails'
+
+**Owner:** @jmbriano
+
+**Status:**
+
+### Initiative 'Monthly meetings process'
+
+**Owner:** @jmbriano
+
+**Status:**
+### Initiative 'Next events planning'
+
+**Owner:** @amaliacardenas
+
+**Status:**
+
+## New initiatives
+
+### Initiative 'OOP workshop'
+
+**Owner:** @loriking
+
+**Status:**
+
+### Initiative 'Re-purpose Trello board (for events only) & publish _procedures for setting up events_'
+
+**Owner:** @jmbriano
+
+**Status:**
