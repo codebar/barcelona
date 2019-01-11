@@ -9,5 +9,5 @@ The goal of this page is to describe **the way we do things** (our processes) to
 
 # Events processes
 
-* Setting up an event: This guideline provides a step-by-step support for creating an event in codebar.io site and in the local social media resources.
+* [Setting up an event](workshops-preparation/preparing-a-workshop.md): This guideline provides a step-by-step support for creating an event in codebar.io site and in the local social media resources.
 * Event Introduction talk: This is a guideline for the presentation talk in the workshops.
