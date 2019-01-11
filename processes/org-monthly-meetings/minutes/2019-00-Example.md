@@ -17,28 +17,16 @@
 
 # Ongoing initiatives
 
-## Initiative ABC
+## Initiative
 
-**Owner:** x
+**Owner:**
 
-**Status:** the activity is ongoing. X will set up a meeting next week to prepare A,B and C. Z mentioned that she wants to help with the initiative. X needs some budget to by D and F.
-
-## Initiative DEF
-
-**Owner:** y
-
-**Status:** the activity is blocked until A, B, C.
+**Status:**
 
 # New initiatives
 
-## Initiative FFF
+## Initiative
 
-**Owner:** z
+**Owner:**
 
-**Status:** The initiative consist on ... and will be organized next week by Z, X, D. It goal is to get ....
-
-## Initiative HHH
-
-**Owner:** z
-
-**Status:** The initiative consisted in ... and was going to be organized next week by Z, X, D. It goal is to get .... but it was **vetoed** since it is not aligned with the mission.
+**Status:**
