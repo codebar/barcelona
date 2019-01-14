@@ -92,18 +92,18 @@ To define the _'owner'_ the person that was in contact with the host, should pub
 This is the first platform where we need to upload the event. To do so, follow the next steps:
 
 1. **Crete a New Host:** If this is the first time the sponsor hosts us, you need to add it to the platform. Otherwise jump to 2.
-    1. Login to codebar.io (you must have admin rights for the channel)
-    2. Click on **Menu** > **New Sponsor**
-    3. Fill in the data requested. You'll need a name, logo, address, and capacity (students and coaches separately).
-    4. To confirm the sponsor was correctly added you can go to https://codebar.io/sponsors and search for it.
+   1. Login to codebar.io (you must have admin rights for the channel)
+   2. Click on **Menu** > **New Sponsor**
+   3. Fill in the data requested. You'll need a name, logo, address, and capacity (students and coaches separately).
+   4. To confirm the sponsor was correctly added you can go to https://codebar.io/sponsors and search for it.
 2. **Create a New Workshop:** To do so:
-    1. Login to codebar.io (you must have admin rights for the channel)
-    2. Click on **Menu** > **New Workshop**
-    3. Fill in the data requested. Pay special attention to the **date** and **time**
+   1. Login to codebar.io (you must have admin rights for the channel)
+   2. Click on **Menu** > **New Workshop**
+   3. Fill in the data requested. Pay special attention to the **date** and **time**
       * Note: **'Rsvp open local date'** and **'Rsvp open local time'** should be filled in with the day after the preceding workshop at 12:00. Once this date is reached, the platform will automatically start allowing RSVPs from people that navigates to the workshop page. **No mail invitations are sent at this date, or when clicking Save**.
-    4. **Leave invitable unchecked**: When checked, people can RSVP to the event and mass mails can be sent. Experience showed that if more than one event has the RSVP open at the same time, it creates confusion to the participants. So we agreed not to mark the event as **invitable** until **after** the preceding workshop is completed.
-    <kbd>![Creating a workshop in codebar.io](images/codebar.png?raw=true "Creating a worshop in codebar.io")</kbd>
-    5. **Save:** If successful, you should see a blue line with the text `codebar: The workshop has been created.``
+   4. **Leave invitable unchecked**: When checked, people can RSVP to the event and mass mails can be sent. Experience showed that if more than one event has the RSVP open at the same time, it creates confusion to the participants. So we agreed not to mark the event as **invitable** until **after** the preceding workshop is completed.
+   <kbd>![Creating a workshop in codebar.io](images/codebar.png?raw=true "Creating a worshop in codebar.io")</kbd>
+   5. **Save:** If successful, you should see a blue line with the text `codebar: The workshop has been created.``
 
 3. **Announce it in Slack:** Once the workshop is _invitable_ (meaning that it is the next upcoming one), announce it in #barcelona-chapter. The idea is to give a little advantage to the Barcelona community. Students and participants enrolled in the channel will have prior notice about the open RSVP in the channel. Make sure that you copy the correct link to the event (it **must not** have the word admin on it. The best way to obtain the link is by navigating from the home page > Events). Example text:
 ```
@@ -111,9 +111,9 @@ Hello channel: RSVP for next week (24th/January) workshop is now open. #Thoughtw
 https://codebar.io/workshops/1069 Book your spot now. Special offer for #barcelona-chapter members. We’ll send official mail invitations tomorrow.
 ```  
 4. **Send mail invitations**: The day after bullet 5. send invitations by mail to all subscribers. To do so:
-  1. Login to codebar.io (you must have admin rights for the channel)
-  2. Click on **Menu** > **Barcelona** > **All workshops** > **Click the workshop link** > **Invite** > Click one of the options.
-    * Note: Invitations are sent only once to each subscriber. If you click invite more than once, the second time, only the new subscribers to Barcelona chapter will get a mail invitation.
+   1. Login to codebar.io (you must have admin rights for the channel)
+   2. Click on **Menu** > **Barcelona** > **All workshops** > **Click the workshop link** > **Invite** > Click one of the options.
+      * Note: Invitations are sent only once to each subscriber. If you click invite more than once, the second time, only the new subscribers to Barcelona chapter will get a mail invitation.
 
 **In Trello:** When workshop is added in codebar.io, check the corresponding item in the `Before workshop` section.
 
