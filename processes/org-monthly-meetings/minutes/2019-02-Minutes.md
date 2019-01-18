@@ -14,11 +14,12 @@
 * **Initiative 'Monthly meetings process'** by @jmbriano (5')
 * **Initiative 'Define process for selecting next hosts'** by @amaliacardenas and @daverick (10')
 
-## New initiatives (30')
+## New initiatives (35')
 
 * **New initiative: "Codebar landing page. Explanation in 3 languages"** by @jmbriano (10')
 * **Initiative Adding Codebar Collaborators?** by @amaliacardenas (10')
 * **Initiative Curriculum Development with Nimrod** by @loriking (10')
+* **Initiative Pride Float?** by @amaliacardenas (5')
 
 # Ongoing initiatives
 
