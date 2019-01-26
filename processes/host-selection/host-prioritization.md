@@ -19,6 +19,7 @@ In this document, you will find
 * **Safe place**
 * **Food and drinks**
 * **Comfortable space for workshops**
+* **wifi**
 
 ## Important
 The important criteria have to been taken into account more to be able to organize correctly the workshop rather than to rate the host.
