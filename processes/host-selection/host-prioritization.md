@@ -21,8 +21,11 @@ In this document, you will find
 * **Comfortable space for workshops**
 
 ## Important
+The important criteria have to been taken into account more to be able to organize correctly the workshop rather than to rate the host.
 * **Accessibility within the city**
+How is accessible the location ie is there a metro or bus stop nearby. How far away it is form the city center.
 * **Maximum capacity**
+How many people are allowed at this location.
 
 ## Nice to have
 * **Comfortable space for talks**
