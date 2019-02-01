@@ -9,7 +9,7 @@
 We want to be more transparent with the way we organize events. In this way anyone who attends or coaches at codebar knows our needs and if interested can help us out. The reason why we want to do this is to have more members from the community participate in the organization of events and to help us as we expand.
 
 In this document, you will find
-1. The criteria that we use when we prioritize where to host codebar events.
+1. The criterion that we use when we prioritize where to host codebar events.
 2. A guide for how to contact hosts who want to sponsor a workshop.
 
 # Host prioritization criteria
