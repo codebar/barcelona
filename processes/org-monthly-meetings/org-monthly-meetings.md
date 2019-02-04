@@ -1,6 +1,10 @@
 # Monthly meetings
 
-Barcelona organizer will meet once a month to synchronize as a team.
+## Objective
+
+As a group we had agreed to be allowed to work on specific initiatives in small groups (which can also include people outside the organizers group). The objective of these regular meetings is to synchronize the progress of the initiatives between the organizers. Also it is the place to present new initiatives and identify other organizers that would like to contribute to it. Last but not least, it's the place to veto initiatives that we consider not aligned with codebar mission or current priorities.
+
+## Attendance
 These meetings are part of the responsibilities of being an organizers and should be respected as such. Attendance is important.
 
 **Schedule**: First Friday of each month.
