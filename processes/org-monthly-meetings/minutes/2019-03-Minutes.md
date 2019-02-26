@@ -11,7 +11,7 @@
 
 #### Location
 
-**To Determine**
+Lemonade
 
 # Agenda
 
@@ -32,18 +32,66 @@
 |**Curriculum Development with Nimrod**|@loriking|10|
 |**Initiative Pride Float?**|@amaliacardenas|10|
 
+## Off topic
+
+After the initiative meeting we will talk about an non initiative related topic.
+
 # Ongoing initiatives
 
-## Initiative
+## Specific workshops
 
-**Owner:**
+**Owner:** @loriking & @jmbriano
 
 **Status:**
+
+TODO
+
+## Monthly meetings process
+
+**Owner:** @jmbriano
+
+**Status:**
+
+TODO
+
+## Define process for selecting next hosts
+
+**Owner:** @amaliacardenas
+
+**Status:**
+
+TODO
+
+## Codebar landing page. Explanation in 3 languages
+
+**Owner:** @jmbriano
+
+**Status:**
+
+TODO
+
+## Adding Codebar Collaborators?
+
+**Owner:** @amaliacardenas
+
+**Status:**
+
+TODO
 
 # New initiatives
 
-## Initiative
+## Curriculum Development with Nimrod
 
-**Owner:**
+**Owner:** @loriking
 
 **Status:**
+
+TODO
+
+## Initiative Pride Float?
+
+**Owner:** @amaliacardenas
+
+**Status:**
+
+TODO
