@@ -39,9 +39,9 @@ Learning to code after a long day at work can be hard. Offering free food and gi
 * **Comfortable space for workshops**
 The minimum requirements for hosting an event includes providing desk space, power outlets, and a stable internet connection. Ideally the desk space is large enough so that 30 people can comfortably work. If the space is too small, it can make it difficult to hear and concentrate. It is also helpful if the wifi codes are clearly visible, or if they are written on a few pieces of paper so we can share them easily in the group.
 
- At the beginning of each workshop we try to create a relaxed environment so that participants feel welcome and safe. Ideally we would want an open space large enough to have 30 people standing in a circle when we start the round of introductions. If a large open space is not available, other options could work as well (e.g. using a meeting room or a room that is used for trainings).
+  At the beginning of each workshop we try to create a relaxed environment so that participants feel welcome and safe. Ideally we would want an open space large enough to have 30 people standing in a circle when we start the round of introductions. If a large open space is not available, other options could work as well (e.g. using a meeting room or a room that is used for trainings).
 
- We do prioritize host that can accommodate a minimum of 30 people.
+  We do prioritize host that can accommodate a minimum of 30 people.
 
 
 ## Important
