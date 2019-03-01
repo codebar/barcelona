@@ -15,9 +15,17 @@ In this document, you will find
 # Host prioritization criteria
 
 ## Must Have
-* **Aligns with the codebar mission**
+* **Aligns with the codebar mission** Our goal is to enable underrepresented people to learn programming in a safe and collaborative environment and expand their career opportunities. Our workshops are available to women, LGBTQ, and people who are underrepresented in the tech industry. It is important for our community that students who participate in our workshops be part of this target group.
 
-* **Safe place**
+* **Safe place** By 'safe place’ we understand this to be a feeling or climate whereby all participants can feel valued and comfortable yet still speak up and take risks without fear of retribution, embarrassment, judgment or consequences either to themselves or others, thereby promoting learning and innovation.
+
+As this is especially important condition for learning and as described in our [Code of Conduct](https://codebar.io/code-of-conduct), our goal is to provide harassment-free experience for everyone, so people can focus on exchanging knowledge and practicing their skills.
+
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+
+Everyone involved in the event (students, coaches, hosts, organizers) should have read and agreed on our Code of Conduct. In particular, sponsors should not use sexualized images, activities, or other material. Staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+
+If it is possible please ask the host to label one of their toilets as gender neutral. We recommend using [this sign](https://www.uua.org/sites/live-new.uua.org/files/documents/lgbtq/gender_neutral_bathroom_11x17.pdf).
 
 * **Food and drinks**
 Learning to code after a long day at work can be hard. Offering free food and giving people the opportunity to take a break and have something to eat before getting started is important.  
@@ -38,8 +46,9 @@ We do prioritize host that can accommodate a minimum of 30 people.
 
 
 ## Important
+The important criteria have to been taken into account more to be able to organize correctly the workshop rather than to rate the host.
 * **Accessibility within the city**
-As most of our participants are coming from Barcelona, at this time we are only considering hosts within Barcelona.  
+As most of our participants are coming from Barcelona, at this time we are only considering hosts within Barcelona. It is also important that the host location be easily accessible by metro or bus.
 
 * **Maximum capacity**
 Event attendee numbers can vary. Ideally we would need a venue that has capacity for a minimum of 30 people.
