@@ -67,7 +67,7 @@ We aim to pair each student with a coach. In the event that we do not have enoug
 We try to book events with our hosts at least a month in advance in order to properly organize an event. Last minute cancellations are not frequent; however, if there is a last minute cancellation, we do prioritize hosts that are open to organizing an event within a short time frame (2 weeks in advance).    
 
 * **Ease of organizing workshops**
-Each time that a new host joins codebar, apart from emailing out the [hosting guide] (http://manual.codebar.io/host-guide.html) we try to have one of the codebar organizers meet with the host in order to explain what codebar is, describe how a workshop works, and answer any questions that might arise.
+Each time that a new host joins codebar, apart from emailing out the [hosting guide](http://manual.codebar.io/host-guide.html) we try to have one of the codebar organizers meet with the host in order to explain what codebar is, describe how a workshop works, and answer any questions that might arise.
 
   A codebar organizer will always send the host an email with the final head count, a list of attendees, and any other important details one day before the event. As the list of attendees can change up until the last minute, it might not always be 100% accurate. We understand that for security reasons, hosts need a list of people who are attending the event, but we do prioritize hosts that offer some flexibility and allow people to attend if there is enough space.  
 
