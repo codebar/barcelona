@@ -23,9 +23,7 @@ The must have criteria is what we use to prioritize which hosts we contact.
 
   As this is especially important condition for learning and as described in our [Code of Conduct](https://codebar.io/code-of-conduct), our goal is to provide harassment-free experience for everyone, so people can focus on exchanging knowledge and practicing their skills.
 
-  Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
-
-  Everyone involved in the event (students, coaches, hosts, organizers) should have read and agreed on our Code of Conduct. In particular, sponsors should not use sexualized images, activities, or other material. Staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+  Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Everyone involved in the event (students, coaches, hosts, organizers) should have read and agreed on our Code of Conduct. In particular, sponsors should not use sexualized images, activities, or other material. Staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
   If it is possible please ask the host to label one of their toilets as gender neutral. We recommend using [this sign](https://www.uua.org/sites/live-new.uua.org/files/documents/lgbtq/gender_neutral_bathroom_11x17.pdf).
 
