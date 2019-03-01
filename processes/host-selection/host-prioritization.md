@@ -49,7 +49,7 @@ The minimum requirements for hosting an event includes providing desk space, pow
 
 
 ## Important
-The important criteria have to been taken into account more to be able to organize correctly the workshop rather than to rate the host.
+The important criteria is taken into account to help organize the workshops rather than to rate the host.
 
 * **Accessibility within the city**
 As most of our participants are coming from Barcelona, at this time we are only considering hosts within Barcelona. It is also important that the host location be easily accessible by metro or bus.
