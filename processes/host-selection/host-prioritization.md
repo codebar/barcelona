@@ -26,15 +26,15 @@ The must have criteria is what we use to prioritize which hosts we contact.
    If it is possible please ask the host to label one of their toilets as gender neutral. We recommend using [this sign](https://www.uua.org/sites/live-new.uua.org/files/documents/lgbtq/gender_neutral_bathroom_11x17.pdf).
 
 * **Food and drinks**
-Learning to code after a long day at work can be hard. Offering free food and giving people the opportunity to take a break and have something to eat before getting started is important.  
+Learning to code after a long day at work can be hard. Offering free food and giving people the opportunity to take a break and have something to eat before getting started is important.
 
- We encourage our hosts to provide food and drinks. As our events typically take place immediately after work for many students and coaches, it is recommended that hosts provide some hot food, as attendees will not have another chance to eat dinner.
+  We encourage our hosts to provide food and drinks. As our events typically take place immediately after work for many students and coaches, it is recommended that hosts provide some hot food, as attendees will not have another chance to eat dinner.
 
- Food options: try to provide some vegetarian, vegan and gluten-free options - everyone will eat vegetarian food but not the other way around so try to keep it 50-50. If you would like recommendations for food, please get in touch with the codebar organizers.
+  Food options: try to provide some vegetarian, vegan and gluten-free options - everyone will eat vegetarian food but not the other way around so try to keep it 50-50. If you would like recommendations for food, please get in touch with the codebar organizers.
 
- Drinks: Please make sure you provide non-alcoholic drinks and water.
+  Drinks: Please make sure you provide non-alcoholic drinks and water.
 
- We do prioritize hosts that can provide food and drinks as this makes our events more effective and accessible.
+  We do prioritize hosts that can provide food and drinks as this makes our events more effective and accessible.
 
 * **Comfortable space for workshops**
 The minimum requirements for hosting an event includes providing desk space, power outlets, and a stable internet connection. Ideally the desk space is large enough so that 30 people can comfortably work. If the space is too small, it can make it difficult to hear and concentrate. It is also helpful if the wifi codes are clearly visible, or if they are written on a few pieces of paper so we can share them easily in the group.
