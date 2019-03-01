@@ -21,7 +21,7 @@ The must have criteria is what we use to prioritize which hosts we contact.
 
 * **Safe place** By 'safe place’ we understand this to be a feeling or climate whereby all participants can feel valued and comfortable yet still speak up and take risks without fear of retribution, embarrassment, judgment or consequences either to themselves or others, thereby promoting learning and innovation.
 
- As this is especially important condition for learning and as described in our [Code of Conduct](https://codebar.io/code-of-conduct), our goal is to provide harassment-free experience for everyone, so people can focus on exchanging knowledge and practicing their skills.
+  As this is especially important condition for learning and as described in our [Code of Conduct](https://codebar.io/code-of-conduct), our goal is to provide harassment-free experience for everyone, so people can focus on exchanging knowledge and practicing their skills.
 
  Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
