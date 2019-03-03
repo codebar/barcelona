@@ -45,7 +45,7 @@ After the initiative meeting we will talk about an non initiative related topic.
 **Status:**
 
 There is a draft list of topics that include:
-* prepare an IT interview (with Raisa)
+* prepare for an IT interview (with Raisa)
 * git (there is a common initiative at codebar for such a workshop, maybe a global remote one! some contacts will be made with github from main codebar organization )
 * D3.js
 
@@ -95,7 +95,7 @@ This initiative is **ongoing** and should be included in next month agenda.
 
 **Status:**
 
-Yes we want, and we even want to have some regular helping on some task in organizing the workshop.
+Yes we want, and we even want to have some regulars helping on some task in organizing the workshop.
 
 We will try to delegate some part of the workshop organization ( part of the mc, door, give name tags)
 
@@ -120,9 +120,9 @@ This initiative is **accepted** and should be included in next month agenda.
 
 **Status:**
 
-Over the summer we were approached by a host regarding a sponsorhip for participating at the bcn gay pride.
+Over the summer we were approached by a host regarding a sponsorship for participating at the bcn gay pride.
 
-The host will be contacted to understand more their intention.
+The host will be contacted to better understand their intention.
 
 This initiative is **accepted** and should be included in next month agenda.
 
