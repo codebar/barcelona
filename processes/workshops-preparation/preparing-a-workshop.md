@@ -110,7 +110,7 @@ This is the first platform where we need to upload the event. To do so, follow t
 Hello channel: RSVP for next week (24th/January) workshop is now open. #Thoughtworks will host us. :parrot:
 https://codebar.io/workshops/1069 Book your spot now. Special offer for #barcelona-chapter members. We’ll send official mail invitations tomorrow.
 ```  
-4. **Send mail invitations**: The day after bullet 5. send invitations by mail to all subscribers. To do so:
+4. **Send mail invitations**: The day after bullet 3. send invitations by mail to all subscribers. To do so:
    1. Login to codebar.io (you must have admin rights for the channel)
    2. Click on **Menu** > **Barcelona** > **All workshops** > **Click the workshop link** > **Invite** > Click one of the options.
       * Note: Invitations are sent only once to each subscriber. If you click invite more than once, the second time, only the new subscribers to Barcelona chapter will get a mail invitation.
