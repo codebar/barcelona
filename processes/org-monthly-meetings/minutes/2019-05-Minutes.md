@@ -30,6 +30,7 @@ Lemonade
 |**Initiative**| Presented by |minutes|
 |:------------|--------------|:--:|
 |**Raquel and Salva on-boarding**|@jmbriano|5|
+|**Instagram account**|@raquel|5|
 
 # Ongoing initiatives
 
