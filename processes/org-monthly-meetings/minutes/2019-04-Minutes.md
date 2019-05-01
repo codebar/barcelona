@@ -27,7 +27,9 @@ OpenBravo
 
 ## New initiatives (20')
 
-No new were added to the agenda
+|**Initiative**| Presented by |minutes|
+|:------------|--------------|:--:|
+|**Instagram account**|@raquel|5|
 
 # Ongoing initiatives
 
