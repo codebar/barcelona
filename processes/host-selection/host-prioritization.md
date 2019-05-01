@@ -79,8 +79,8 @@ To select which host to contact next you will need to
 
 **1. Remove any filter criteria applied:** to do this you will need to click on the little icon that looks like an upside down pyramid on columns M, N, O, and P. You will see that a window opens. In the filter by values section click on the select all option. This will allow you to start with the full list of available hosts.   
 
-**2. Using the filter in column "O", exclude those in red (leave only the zeros)** to do this, select the icon that looks like an upside down pyramid. You will see that a window opens. The  1, and 2 filter criteria should not be selected. Uncheck them so that you are left only with the 0 criteria as a filter.
+**2. Using the filter in column "O", exclude those in red (leave only the zeros):** to do this, select the icon that looks like an upside down pyramid. You will see that a window opens. The  1, and 2 filter criteria should not be selected. Uncheck them so that you are left only with the 0 criteria as a filter.
 
-**3. - Sort by Rating in descending order, and contact hosts starting from the one with higher rating (start by the 'NEW' if any)** Go to  the rating column and select the upside down pyramid. Once the window opens, select sort by Z-A. If there is a new host, contact them first. Otherwise, you should contact the host that has the highest rating. 									
+**3. - Sort by Rating in descending order, and contact hosts starting from the one with higher rating (start by the 'NEW' if any):** Go to  the rating column and select the upside down pyramid. Once the window opens, select sort by Z-A. If there is a new host, contact them first. Otherwise, you should contact the host that has the highest rating. 									
 
-**4. - Look for the contact details in "Contacts" tab** In the contacts tab, you will find the contact details listed for each of our hosting companies.  
+**4. - Look for the contact details in "Contacts" tab:** In the contacts tab, you will find the contact details listed for each of our hosting companies.  
