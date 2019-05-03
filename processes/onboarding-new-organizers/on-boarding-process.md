@@ -26,6 +26,7 @@ Add the new organizer to all of the following:
 
 - Trello board
 - #barcelona-org slack channel
+- Codebar-BCN google calendar
 - host rotation schedule http://bit.ly/2GMeteu
 
 ## Grant access to all social media accounts
