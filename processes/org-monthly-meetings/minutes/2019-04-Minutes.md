@@ -27,7 +27,7 @@ OpenBravo
 
 ## New initiatives (20')
 
-No new were added to the agenda
+No new initiatives were presented
 
 # Ongoing initiatives
 
