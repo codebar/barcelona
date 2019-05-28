@@ -91,7 +91,7 @@ To define the _'owner'_ the person that was in contact with the host, should pub
 
 This is the first platform where we need to upload the event. To do so, follow the next steps:
 
-1. **Crete a New Host:** If this is the first time the sponsor hosts us, you need to add it to the platform. Otherwise jump to 2.
+1. **Create a New Host:** If this is the first time the sponsor hosts us, you need to add it to the platform. Otherwise jump to 2.
    1. Login to codebar.io (you must have admin rights for the channel)
    2. Click on **Menu** > **New Sponsor**
    3. Fill in the data requested. You'll need a name, logo, address, and capacity (students and coaches separately).
