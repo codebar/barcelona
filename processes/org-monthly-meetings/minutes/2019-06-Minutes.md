@@ -105,6 +105,10 @@ Thoughtworks
 
 **Status:**
 
+## Hosting events at King
+**Owner:** @amaliacardenas
+
+**Status:**
 
 # New initiatives
 
