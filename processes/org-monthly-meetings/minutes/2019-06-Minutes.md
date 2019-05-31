@@ -17,7 +17,7 @@ Thoughtworks
 
 # Agenda
 
-## Ongoing activities (37')
+## Ongoing activities (40')
 
 |**Initiative**| Presented by |minutes|
 |:------------|--------------|:--:|
@@ -29,12 +29,13 @@ Thoughtworks
 |On-boarding process|@amaliacardenas|2|
 |E-mail templates|@amaliacardenas|2|
 |Handbook for organizers|@amaliacardenas|2|
-|Raquel and Salva on-boarding|@jmbriano|5|
+|Raquel and Salva on-boarding|@jmbriano|3|
 |Instagram account|@raquelalvear|5|
 |Cloning RGSoC|@amaliacardenas|2|
+|Hosting events at King|@amaliacardenas|5|
 
 
-## New initiatives (23')
+## New initiatives (20')
 
 |**Initiative**| Presented by |minutes|
 |:------------|--------------|:--:|
