@@ -29,9 +29,9 @@ Typeform offices (capacity?)
 ### Participatin Organization list
 
 * codebar
+* OutWorks
 * ¿Typeform LGBTQI group?
 * ¿Barcelona LGBT+ Tech ?
 * ¿TW Gender justice ?
-* ¿TW OutWorks?
 * ¿IT company LGBTQI groups?
 * __*TO COMPLETE*__
