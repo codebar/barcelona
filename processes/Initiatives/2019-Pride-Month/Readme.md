@@ -26,7 +26,7 @@ Typeform offices (capacity?)
 * something to present slides
 * __IMPORTANT__ *__DATE__*  ¿Tuesday 25, Wednesday 26 or __Thursday 27__? __*IMPORTANT*__
 
-### Participatin Organization list
+### Participation Organization list
 
 * codebar
 * OutWorks
