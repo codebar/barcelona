@@ -16,18 +16,22 @@ The objectives are to meet, share , coordinate, create synergies and of course c
 * create a LGBTQI+ Tech Shared Calendar to lower the number of events colisions.
 * chat and celebrate around some drinks/snacks 🏳️‍🌈 🎉 🎊
 
+### where
+
+Typeform offices (capacity?)
+
 ### Ressources needed
 
-* a place to host XXX persons __*TO DEFINE*__
-* a sponsor for snacks and drinks
+* a sponsor for snacks and drinks (typeform too?)
 * something to present slides
-* __IMPORTANT__ *__DATE__* __*IMPORTANT*__
+* __IMPORTANT__ *__DATE__*  ¿Tuesday 25, Wednesday 26 or Thursday 27? __*IMPORTANT*__
 
 ### Participatin Organization list
 
 * codebar
-* Barcelona LGBT+ Tech ?
-* TW Gender justice ?
-* TW OutWorks?
-* IT company LGBTQI groups?
+* ¿Typeform LGBTQI group?
+* ¿Barcelona LGBT+ Tech ?
+* ¿TW Gender justice ?
+* ¿TW OutWorks?
+* ¿IT company LGBTQI groups?
 * __*TO COMPLETE*__
