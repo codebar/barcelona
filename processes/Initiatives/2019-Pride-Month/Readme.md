@@ -32,6 +32,8 @@ Typeform offices (capacity?)
 * OutWorks
 * ¿Typeform LGBTQI group?
 * ¿Barcelona LGBT+ Tech ?
+* ¿King LGBTQI group?
+* ¿Oracle LGBTQI group?
 * ¿TW Gender justice ?
 * ¿IT company LGBTQI groups?
 * __*TO COMPLETE*__
