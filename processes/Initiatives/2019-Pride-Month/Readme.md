@@ -24,7 +24,7 @@ Typeform offices (capacity?)
 
 * a sponsor for snacks and drinks (typeform too?)
 * something to present slides
-* __IMPORTANT__ *__DATE__*  ¿Tuesday 25, Wednesday 26 or Thursday 27? __*IMPORTANT*__
+* __IMPORTANT__ *__DATE__*  ¿Tuesday 25, Wednesday 26 or __Thursday 27__? __*IMPORTANT*__
 
 ### Participatin Organization list
 
