@@ -18,13 +18,18 @@ The objectives are to meet, share , coordinate, create synergies and of course c
 
 ### where
 
-Typeform offices (capacity?)
+Typeform office, capacity for 100 !
+
+### when
+
+Thursday 27
+
 
 ### Ressources needed
 
-* a sponsor for snacks and drinks (typeform too?)
+* a sponsor for snacks and drinks (typeform + others __* to define *__)
 * something to present slides
-* __IMPORTANT__ *__DATE__*  ¿Tuesday 25, Wednesday 26 or __Thursday 27__? __*IMPORTANT*__
+
 
 ### Participation Organization list
 
