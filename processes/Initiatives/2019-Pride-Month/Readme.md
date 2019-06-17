@@ -13,7 +13,7 @@ The objectives are to meet, share , coordinate, create synergies and of course c
  * what
  * where
  * how
-* create a LGBTQI+ Tech Shared Calendar to lower the number of events colisions.
+* create a LGBTQI+ Tech Shared Calendar to lower the number of events collisions.
 * chat and celebrate around some drinks/snacks 🏳️‍🌈 🎉 🎊
 
 ### where
@@ -35,10 +35,10 @@ Thursday 27
 
 * codebar
 * OutWorks
-* ¿Typeform LGBTQI group?
-* ¿Barcelona LGBT+ Tech ?
-* ¿King LGBTQI group?
-* ¿Oracle LGBTQI group?
+* Typeform LGBTQI group
+* OPEN (Oracle)
+* King LGBTQI group
+* ¿Barcelona LGBTQI+ Tech ?
 * ¿TW Gender justice ?
 * ¿IT company LGBTQI groups?
 * __*TO COMPLETE*__
