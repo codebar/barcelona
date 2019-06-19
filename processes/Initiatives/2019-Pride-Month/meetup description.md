@@ -3,7 +3,7 @@
 Are you part of a LGBTQI+ organization in Tech in Barcelona or do you want to meet them?
 We invite you to celebrate pride 🏳️‍🌈 month and meet with other organizations in Tech that have a total or partial LGBTQI+ focus. We want to meet, share , create community and of course celebrate pride month together. 🏳️‍🌈 🎉 🎊
 
-We are a group of LGBTQI+ people that work in Tech and thought that a good way to celebrate pride 🏳️‍🌈 month is to meet & share and try build, growth and enahnce our communities.
+We are a group of LGBTQI+ people that work in Tech and thought that a good way to celebrate pride 🏳️‍🌈 month is to meet & share and try build, growth and enhance our communities.
 
 Agenda
 18h30 doors opens
@@ -19,3 +19,11 @@ Agenda
 21h00 End
 
 I you want to present your organization please get in touch with us and we will add you to the presenter list.
+
+code of conduct list
+
+Alyssa, David, Miquel Monica & Pablo.
+
+translation to spanish
+
+translation to catalan
