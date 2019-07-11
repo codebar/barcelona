@@ -19,7 +19,7 @@ ThoughtWorks
 
 # Agenda
 
-## Ongoing activities (xx')
+## Ongoing activities (25')
 
 |**Initiative**| Presented by |minutes|
 |:------------|--------------|:--:|
@@ -33,19 +33,19 @@ ThoughtWorks
 |Adding a community manager|@loriking|x|
 
 
-## New initiatives (xx')
+## New initiatives (35')
 
 |**Initiative**| Presented by |minutes|
 |:------------|--------------|:--:|
-||||
-|comunícate the minutes of our org meetings in the Bcn channel to promote interest in the org and have some initiative from our members|@daverick||
-|a third meeting by month?|@daverick||
+|communicate the minutes of our org meetings in the Bcn channel to promote interest in the org and have some initiative from our members|@daverick||
+|Additional workshops?|@daverick||
 |a kit for coach so that they can explain to their coworker why coaching at codebar is super cool ( came from a chat with Alyssa from typeform to how to foment their employee to coach at codebar when it will be at typeform)|@daverick||
 | BCN codebar role in building LGBTQIA + tech community|@daverick||
 |Working with some student on making better the feedback from student to coach|@daverick with Edu||
-|reuse TW Computing fondamental|@daverick||
-
+|reuse TW Computing fundamental|@daverick||
 |better pairing support|@daverick & @jmbriano||
+
+
 # Ongoing initiatives
 
 ## Specific workshops/Curriculum development
@@ -107,11 +107,55 @@ ThoughtWorks
 
 # New initiatives
 
-## Initiative
+## communicate the minutes of our org meetings in the Bcn channel to promote interest in the org and have some initiative from our members
 
 **Owner:**
 
 **Status:**
+
+
+## Additional workshops?
+
+**Owner:**
+
+**Status:**
+
+
+## a kit for coach so that they can explain to their coworker why coaching at codebar is super cool ( came from a chat with Alyssa from typeform to how to foment their employee to coach at codebar when it will be at typeform)
+
+**Owner:**
+
+**Status:**
+
+
+## BCN codebar role in building LGBTQIA + tech community
+
+**Owner:**
+
+**Status:**
+
+
+## Working with some student on making better the feedback from student to coach
+
+**Owner:**
+
+**Status:**
+
+
+## reuse TW computing fundamentals
+
+**Owner:**
+
+**Status:**
+
+
+## better pairing support
+
+**Owner:**
+
+**Status:**
+
+
 
 # Next monthly meeting
 
