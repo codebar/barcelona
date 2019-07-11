@@ -45,7 +45,7 @@ ThoughtWorks
 |Working with some student on making better the feedback from student to coach|@daverick with Edu||
 |reuse TW Computing fondamental|@daverick||
 
-
+|better pairing support|@daverick & @jmbriano||
 # Ongoing initiatives
 
 ## Specific workshops/Curriculum development
