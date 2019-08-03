@@ -48,6 +48,6 @@ The only pre-requisite we would like to mention is **availability**. We want thi
 
 ## Want to be part of this project?
 
-Write us an email to barcelona@codebar.io. Indicate which role you would like to take or mentor.
+If you want to participate in this project, go [here](https://github.com/codebar/barcelona/issues/37) and let us know which role you would like to take/mentor.
 
 We are really excited about this first collaborative project! So let's make it a success together!
