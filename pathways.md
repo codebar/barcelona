@@ -10,15 +10,14 @@ As a part of our ongoing discussions on ways we can provide more to attendees of
 5. Good to have:
   * Identify jobs and companies that are open to beginners.
 
-_Panel discussion: Different kinds of tech jobs_
+#### Panel discussion: Different kinds of tech jobs
 
 What does it mean to work in tech?
 
 Since working in tech is much more than knowing how to write a few lines of code, we are proposing a session that would give an overview of different kinds of jobs in the industry (BA, PM, PO, Scrum master, etc.) as well as different kinds of developer jobs (generalists vs specialists).
 
 
-_Projects_
-
+#### Projects
 
 1. Self-managed study groups
   * Self-managed study groups of 4 - 8 (ideal size 6) people
@@ -30,6 +29,6 @@ _Projects_
 3. Create a project in the language they have been working on: “codetwitterbar”
 4.  [Codebar pairing support tool](https://github.com/codebar/barcelona/tree/pairing-support-tool/tools/pairing-support-tool)
 
-*Showcase*
+#### Showcase
 
 * Each group will demonstrate their progress (monthly?)
