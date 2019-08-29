@@ -80,7 +80,7 @@ This topic goes to the **parking lot**!
 PR failed, there will be a redesign of the page.
 Option to translate the whole Codebar page. Propose as an exercise on OSS collaboration / ask for volunteers
 
-This topic is **ongoing** and should be included in the next meeting.
+This topic is in the **Parking Lot** until advancements are made in chapter-organiser-meetings#16.
 
 
 ## Adding collaborators board
@@ -149,7 +149,7 @@ To be merged into the instagram account
 **Owner:**
 
 **Status:**
-This item was not discussed in the meeting.
+This item was not discussed in the meeting. It will be added to the next month initiative list.
 
 
 ## Additional workshops?
@@ -174,7 +174,8 @@ This topic is **ongoing** and should be included in the next meeting.
 **Owner:**
 
 **Status:**
-This item was not discussed in the meeting.
+
+This item was not discussed in the meeting. It will be added to the next month initiative list.
 
 
 ## BCN codebar role in building LGBTQIA + tech community
@@ -211,7 +212,7 @@ Facilitator sends this topic to the **parking lot**
 
 ## better pairing support
 
-**Owner:** @jmbriano & @amaliacardenas
+**Owner:** @jmbriano & @amaliacardenas & @daverick
 
 **Status:**
 Check different alternatives and approaches on improve the process. (i.e. have it along with the name tags)
