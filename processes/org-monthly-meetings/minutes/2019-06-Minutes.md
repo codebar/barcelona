@@ -72,7 +72,7 @@ This initiative is **ongoing** and should be included in next month agenda.
 
 
 ## Codebar landing page. Explanation in 3 languages
-David attended the monthly organizer's meeting and discussed why it is important for the Barcelona chapter to have an explanation in three languages. Some of our students do not speak English, and we need a way for them to feel welcome and safe during the workshops. There is a possibility to translate the entire website. The translation project can be turned into a workshop. It will be a good way to include our students and it's a great way to learn git. There is a UX designer from London who is working on redesigning the landing page so that the page can be in different languages. It will take some time for the redesign to be completed, but the project is progressing.  
+David attended the monthly organizer's meeting and discussed why it is important for the Barcelona chapter to have an explanation in three languages. Some of our students do not speak English, and we need a way for them to feel welcome and safe during the workshops. There is a possibility to translate the entire website. The translation project can be turned into a workshop. It will be a good way to include our students and it's a great way to learn git. There is a UX designer from Oslo(?¿) who is working on redesigning the landing page so that the page can be in different languages. It will take some time for the redesign to be completed, but the project is progressing. To follow the progress: https://github.com/codebar/chapter-organiser-meetings/issues/17
 
 **Owner:** @jmbriano
 
