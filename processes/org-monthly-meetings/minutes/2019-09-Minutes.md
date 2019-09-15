@@ -19,12 +19,12 @@ Lemonade
 
 # Agenda
 
-## Ongoing activities (45')
+## Ongoing activities (35')
 
 |**Initiative**| Presented by |minutes|
 |:------------|--------------|:--:|
 |Specific workshops/Curriculum development|@loriking|10|
-|Adding collaborators board|@jmbriano|5|
+|Adding collaborators board|@salva, @loriking|5|
 |Handbook for organisers|@amaliacardenas|5|
 |Social Media Fun (Instagram, Community Manager, Designer)|@raquelalvear|10|
 |Pairing support|@daverick & @jmbriano|5|
@@ -68,6 +68,9 @@ This topic was merged with: additional workshops
 
 This topic is **ongoing** and should be included in the next meeting.
 
+PR #41.
+Try one of them before the end of the year. Try to do it in Hola Luz. Use project board for additional workshops. One-off workshops. (Add the link about the PR) - In all of the initiatives
+
 
 ## Adding collaborators board
 
@@ -77,12 +80,13 @@ This topic is **ongoing** and should be included in the next meeting.
 Reminder: To track people who assist the workshops and are willing to collaborate with Codebar.
 The current idea is to document our process, and activities, and then be able to link potential people who can collaborate on this.
 
-No progress
+No progress - now @jmbriano takes over this initiative
 
 Should we consider this topic before we consider for more organisers?
 
-This topic is **ongoing** and should be included in the next meeting.
+This topic is in the **Ongoing**
 
+-- 19:30
 
 ## Handbook for organisers
 
@@ -104,6 +108,8 @@ Account is up and running!
 Documentation on how to use it is missing.
 Can get help and inspiration from ThoughtWorks office manager.
 
+--Write a guide about social Media
+
 This topic is **ongoing** and to be included in the next meeting
 
 
@@ -118,15 +124,22 @@ Do we consider to build a tool? If so, do it in a community way.
 What other chapters do?
 Do we want to review the workshop presentation too?
 
+This topic is **ongoing** and to be included in the next meeting
+-- Martin & David want to add the language in the tool
+-- long-term innitiative: we want to make this a long project (one of the community projects) - PR #36 with different study-backgrounds. take a look at the website and add a button for the pairing tool
+--Change the description of the slack channel with our names as organizers
+
+-- 19:40
 
 ## Working with some student on making better the feedback from student to coach
 
-**Owner:**
+**Owner:** @Edu ? + @raquelalvear
 
-**Status:**
+**Ongoing** add it to the collaborators board initiative
 
 Possibility to do a PR on improving Codebar page in regards of feedback?
 
+MERGE with collaborators board
 
 ## BCN codebar role in building LGBTQIA + tech community
 
@@ -135,11 +148,11 @@ Possibility to do a PR on improving Codebar page in regards of feedback?
 **Status:**
 
 We should push this forward and promote diversity in different companies and other spaces, in a collaborative manner with other organizations already doing this.
-There is a Donate button in the codebar page, it is possible to communicate with Codebar the donations that are donated for the barcelona chapter for this purpose.
+ Maybe not functioning --There is a Donate button in the codebar page, it is possible to communicate with Codebar the donations that are donated for the barcelona chapter for this purpose.
 
 This topic is **ongoing** and should be included in the next meeting.
 
-
+Lightning talks
 
 # New initiatives
 
@@ -147,39 +160,54 @@ This topic is **ongoing** and should be included in the next meeting.
 
 **Owner:** @daverick
 
-**Status:**
-This item was not discussed in the meeting. It will be added to the next month initiative list.
+**Status: approved and Ongoing**
+
+We share it on slack - it's open and everybody can have a look at it
 
 
 ## Coach Kit
 
-**Owner:**
+**Owner:** @daverick , @amaliacardenas, @loriking
 
 **Status:**
 
 a kit for coach so that they can explain to their coworker why coaching at codebar is super cool ( came from a chat with Alyssa from typeform to how to foment their employee to coach at codebar when it will be at typeform)
 
+-- Present codebar at the company beforehand??
+Take a look at FAQ and the assets and use it for our future coaches
+Make videos with coaches explaining how they do it
+Talk to Kimberley!
+
+This topic is **Ongoing**
 
 ## Funding
 
-**Owner:**
+**Owner:** @daverick
 
-**Status:**
+Status **Ongoing**
+Discussion funding PR
+Charity status UK - Spain?
+Expand the file
 
-
-## Collaborating with Elastic
+## Collaborating with Elastic // Volunteering
 
 **Owner:** @daverick
 
-**Status:**
-
+**Status:** **Ongoing**
+They have volunteering programs. Use these five days with codebar
+Typeform wanted to start doing something like this too
+involving other companies (VTO from other companies)
+idea: small bootcamp
 
 ## Publicity talk at the smart cities conference
 
+Thais is helping organize the smart cities coference and she wants to give passes to our community and promote organizations like ours
+19-21 of November
+She's working with desidem. They're trying to make feedback on the democratic process more transparent
+They want to work with the RGSOC program
 **Owner:** @amaliacardenas
 
-**Status:**
-
+**Status:** Ongoing and accepted
 
 
 # Parking Lot
@@ -241,6 +269,6 @@ This can be used to share how we work for promotional purposes!
 
 # Next monthly meeting
 
-**Facilitator:** @
+**Facilitator:** @daverick
 
-**Date:** 2019-10-06
+**Date:** 2019-10-04
