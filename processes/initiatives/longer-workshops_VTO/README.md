@@ -8,9 +8,13 @@ This initiative is for organizing longer workshops or coaching sessions that wil
 A quick poll on the #barcelona-chapter slack channel gave as best choices for students a Friday afternoon workshop.
 We will try with this format and see how it goes.
 
+# Event description
+
+See [Event-Description.md](Event-Description.md)
+
 # Todo list
 
-* [ ] describe the new [event](#event-description)
+* [x] describe the new [event](event-description.md)
 * [ ] contact some companies to see if they are interested in VTO or similar.
 * [ ] confirm interest & availability  of students
 * [ ] confirm interest & availability of coaches
@@ -20,21 +24,48 @@ We will try with this format and see how it goes.
  * [ ] fix a date
 
 
-# Event description
+---
 
-A special codebar workshop that last 4 hours on a Friday afternoon where the coach and student has been paired in advance and some
+# Quick slack poll Results
 
-Options to validate:
+ __daverick 20 oct. à 12 h 42__
 
-* pairing in advance?
-* some preparation from students?
-* some preparation from coaches?
-* a short presentation at the end?
-* a short presentation at the beginning?
-* coffee break or lightning talks breaks? byt the coaches? students? others? hosts? sponsors?
-* how to measure the success, just students? coaches?
-* strict eligibility criteria
+ Hi tod@s,
+ Just a quick pool for students to see if you are interested in longer codebar workshop for next year.
+ ¿Would you like to have and be able to attend a longer codebar workshop?
+ * ⛔ No
+ * 🍰 yes in the afternoon
+ * ☕ yes in the morning
+ * 🎂 yes all day long
+ * 5️⃣ yea all week long
+ Please choose all the possible choices you agree and do not hesitate to add your comments or suggestions.
 
+ Results:
+
+ |Choice|Votes|Voters|
+ |---|---|---|
+ |⛔ No|0||
+ |🍰 yes in the afternoon|5|Henriette, Alba, Stefi, Klara, Robby  |
+ |☕ yes in the morning|2|Henriette, Robby|
+ |🎂 yes all day long|2|Henriette, Robby|
+ |5️⃣ yea all week long|3|Henriette, Alba, Robby|
+
+
+---
+
+# Working Material:
+
+|Options |Pros|Cons|
+|---|---|---|
+|pairing in advance|better fit </br> enable preparation |organization + dificult </br> no show|
+|some preparation from students?|better engagement|time to do it|
+|some preparation from coaches?|better engagement|time to do it|
+|a short presentation at the end for each student?|completion feeling <br> emulation|less time  for learning <br>|
+|a short presentation at the beginning?|emulation <br> codebar way||
+|coffee break or lightning talks breaks?<br> by the coaches?<br> students?<br> others?<br> hosts?<br> sponsors?|||
+
+
+how to measure the success, just students?  coaches?
 
 # promoting VTO at companies
 
@@ -49,4 +80,4 @@ Options to validate:
 * promoting diversity in tech
 * codebar format is:
  * effective, we have various success stories
- * coache learn too essential soft skills
+ * coach learnes essential soft skills
