@@ -5,16 +5,14 @@ Out of subjects posts in #barcelona-chapter: templates of messages
 This template should be used When someone/some organization posts something that is not following the channel description/guidelines:
 "codebar Barcelona news or anything related to promote diversity in tech in Barcelona"
 
-# 1st quick personal message to poster
-I’m {{your name}} one of the organizers of the codebar :codebar: Barcelona chapter.
-I have just seen your post in #barcelona-chapter. How does this event
-promote diversity in tech in Barcelona?
-If it doesn’t, please take it down from this channel that is limited to codebar Barcelona chapter news or events that promote diversity in tech in Barcelona.
-You are welcome to publish it in #barcelona-social.
-If you have any questions or comments do not hesitate to get in touch with me.
+# 1st quick personal message to poster, can be as an answer in the channel
+Hi {{Name}}, I couldn’t find a code of conduct or a promotion of diversity in
+tech in the description of this event. I am sure you have posted it here with
+good intentions but I would ask you to remove that post from this channel.
+You can post in #barcelona-social instead. There are almost no rules there ;-).
 
 # More formal message strips if the first one is not sufficient
- 
+
 ## unclear rule?
 
 The rule is clear, if the event promotes diversity in tech, it can be in
