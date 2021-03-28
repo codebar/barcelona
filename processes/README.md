@@ -13,7 +13,3 @@ The goal of this page is to describe **the way we do things** to ease our daily 
 * [Setting up an event](workshops-preparation/preparing-a-workshop.md): This guideline provides a step-by-step support for creating an event in codebar.io site and in the local social media resources.
 * [Host selection](host-selection/host-prioritization.md): For presential workshops, these are the guidelines to prioritize to which hosts we propose the dates to hold the workshop.
 * Event Introduction talk: This is a guideline for the presentation talk in the workshops.
-
-## Other processes
-
-* [Community collaborations](collaborators-board/collaborations.md): When members of the community are interested in collaborating with organizers, this is the list of topics and how they can collaborate.
