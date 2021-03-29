@@ -14,15 +14,17 @@ This is a [first prototype of the pairing tool](https://saljuama.github.io/codeb
 
 ## How to use it
 
-1. Download the workshop CSV file in the from the specific [Barcelona workshop](https://codebar.io/admin/chapters/15/workshops) 
+#### Download the workshop CSV file and load it into the pairing tool
 
-![Download the CSV workshop file](workshop-csv-file.png)
+You can download the CSV from the specific workshop from this [list of Barcelona Workshops](https://codebar.io/admin/chapters/15/workshops)
 
-2. Load the CSV into the pairing tool, either drag and drop the file, or click on the file selector to select the CSV
+Either drag and drop the file into the file selector, or click on the file selector for a file selector popup.
 
 ![Drag and drop CSV file to the pairing tool](drag-and-drop-csv.png)
 
-3. Update attendance and skills for each participant, recommended to do this during the round of presentations at the beginning of the workshop. 
+#### Update attendance and skills for each participant 
+
+Recommended to do this during the round of presentations at the beginning of the workshop. 
 
 ![Review attendance and skills](attendance-review.png)
 
@@ -36,7 +38,7 @@ In case there is any participant who didn't sign up for the workshop (happens mo
 
 Once all the attendees are reviewed and updated, click on the `Continue to Pairings` button at the top of the screen.
 
-4. Sort the pairings
+#### Sort the pairings
 
 Start dragging and dropping students and coaches into the respective destination boxes.
 
@@ -46,8 +48,8 @@ When you drag and drop a person, in the pair box will be displayed the skills th
 
 Also a new pair box will appear to form more pairs.
 
-![Pairings in progress](pairings-in-progress.png)
-
 It is possible to drag more than 1 student/coach in a pair, so it is possible to have triples and give 2 students to a coach or pair 2 coaches with 1 student. 
 
-5. Well done, now announce the pairs!!!
+![Pairings in progress](pairings-in-progress.png)
+
+#### Well done, now announce the pairs!!!
