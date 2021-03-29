@@ -24,13 +24,13 @@ Either drag and drop the file into the file selector, or click on the file selec
 
 ### 2. Update attendance and skills for each participant 
 
-Recommended to do this during the round of presentations at the beginning of the workshop. 
-
-![Review attendance and skills](attendance-review.png)
+Recommended to do this during the round of presentations at the beginning of the workshop. For each participant: 
 
 * Check the attendance
 * Update the skills if there is any that is not correct or missing
 * Update the role if needed, as sometimes due to to many students or coaches there are role swaps. 
+
+![Review attendance and skills](attendance-review.png)
 
 In case there is any participant who didn't sign up for the workshop (happens mostly with some coaches), you can add a new person and fill their details.
 
