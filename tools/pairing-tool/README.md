@@ -14,7 +14,7 @@ This is a [first prototype of the pairing tool](https://saljuama.github.io/codeb
 
 ## How to use it
 
-#### Download the workshop CSV file and load it into the pairing tool
+### 1. Download the workshop CSV file and load it into the pairing tool
 
 You can download the CSV from the specific workshop from this [list of Barcelona Workshops](https://codebar.io/admin/chapters/15/workshops)
 
@@ -22,7 +22,7 @@ Either drag and drop the file into the file selector, or click on the file selec
 
 ![Drag and drop CSV file to the pairing tool](drag-and-drop-csv.png)
 
-#### Update attendance and skills for each participant 
+### 2. Update attendance and skills for each participant 
 
 Recommended to do this during the round of presentations at the beginning of the workshop. 
 
@@ -38,7 +38,7 @@ In case there is any participant who didn't sign up for the workshop (happens mo
 
 Once all the attendees are reviewed and updated, click on the `Continue to Pairings` button at the top of the screen.
 
-#### Sort the pairings
+### 3. Sort the pairings
 
 Start dragging and dropping students and coaches into the respective destination boxes.
 
@@ -52,4 +52,4 @@ It is possible to drag more than 1 student/coach in a pair, so it is possible to
 
 ![Pairings in progress](pairings-in-progress.png)
 
-#### Well done, now announce the pairs!!!
+### 4. Well done, now announce the pairs!!!
