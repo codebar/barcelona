@@ -11,8 +11,8 @@ This is meant as a guide to help you prepare for the MC (master of ceremonies) r
 * For in person workshops thank the <host>. The host can say a few words.
 * Explain how the workshop will work. For virtual events, let people know that we will send an alert a few minute before the workshop ends, and that we will take a picture at the end.
 * Thank Coaches
-* Thank Student
-* ![Student guide](http://tutorials.codebar.io/general/setup/tutorial.html) or ![Coaching guide](https://codebar.io/effective-teacher-guide)
+* Thank Students
+* ![Student guide](https://codebar.io/student-guide) or ![Coaching guide](https://codebar.io/effective-teacher-guide)
 * Announcements: upcoming workshops, any events happening at the global level etc.
 * Explain code of conduct: Even though this is a virtual event, we still abide by the code of conduct. We are very passionate about the code of conduct, and creating a safe space for all participants is really important to us. If you feel there has been a violation you can reach out to any of the organizers, either through the slack channel, or we will be available here in zoom. We will also link a copy of the [code of conduct](https://codebar.io/code-of-conduct) in the chat channel.
 * Presentation rounds:
