@@ -62,26 +62,41 @@ To define the _'owner'_ TBD. If no-one volunteers, the organizer that has not ow
 This is the first platform where we need to upload the event. To do so, follow the next steps:
 
 1. **Create a New Host:** If this is the first time the sponsor hosts us, you need to add it to the platform. Otherwise jump to 2.
-   1. Login to codebar.io (you must have admin rights for the channel)
-   2. Click on **Menu** > **New Sponsor**
-   3. Fill in the data requested. You'll need a name, logo, address, and capacity (students and coaches separately).
-   4. To confirm the sponsor was correctly added you can go to https://codebar.io/sponsors and search for it.
+  1. Login to codebar.io (you must have admin rights for the channel)
+
+  2. Click on **Menu** > **New Sponsor**
+
+  3. Fill in the data requested. You'll need a name, logo, address, and capacity (students and coaches separately).
+
+  4. To confirm the sponsor was correctly added you can go to https://codebar.io/sponsors and search for it.
+
 2. **Create a New Workshop:** To do so:
-   1. Login to codebar.io (you must have admin rights for the channel)
-   2. Click on **Admin Menu** > **New Workshop** and fill in the requested data.
-   3. **Virtual workshop check box:** Make sure that you select the checkbox so that the system knows that it is a virtual workshop.
-   4. **Slack channel:** You will need to create a slack channel dedicated specifically for the virtual workshop. In slack, click the plus icon next to channels to create the channel. You can use the following convention to name the channel
+
+  1. Login to codebar.io (you must have admin rights for the channel)
+
+  2. Click on **Admin Menu** > **New Workshop** and fill in the requested data.
+
+  3. **Virtual workshop check box:** Make sure that you select the checkbox so that the system knows that it is a virtual workshop.
+
+  4. **Slack channel:** You will need to create a slack channel dedicated specifically for the virtual workshop. In slack, click the plus icon next to channels to create the channel. You can use the following convention to name the channel
 
    virtual-barcelona-2021-apr-08.
 
    Once you have created the channel, right click on the channel to get the link and add it to the form.  
-   5. **Set the number of students and coaches for the workshop:** Typically we set the number to 10 students and 10 coaches. We can manually change the number of allowed students if more coaches sign up. Typically we check how many people have signed up 2-3 days before the workshop begins. If there is a long waitlist of students, or if we are short on coaches, then we ask in the slack channel or through our own networks for more coaches to join.  
-   6. **Chapter:** Barcelona
-   7. **Start time:** 18:30
-   8. **End time:** 20:40
-   9. **Host:** For virtual workshops, we don’t have a host
-   10. **Sponsor:** Virtual workshops can be sponsored. If any companies are interested in making a financial contribution to codebar to help us cover running costs please get them in touch with us [hello@codebar.io](hello@codebar.io).
-   11. **Default description:** Here is a sample text that you can use. The only things that need to be modified are the date and the slack channel that we will use for the workshop. The description field supports HTML, that is why the text is written with the HTML tags
+
+  5. **Set the number of students and coaches for the workshop:** Typically we set the number to 10 students and 10 coaches. We can manually change the number of allowed students if more coaches sign up. Typically we check how many people have signed up 2-3 days before the workshop begins. If there is a long waitlist of students, or if we are short on coaches, then we ask in the slack channel or through our own networks for more coaches to join.
+
+  6. **Chapter:** Barcelona
+
+  7. **Start time:** 18:30
+
+  8. **End time:** 20:40
+
+  9. **Host:** For virtual workshops, we don’t have a host
+
+  10. **Sponsor:** Virtual workshops can be sponsored. If any companies are interested in making a financial contribution to codebar to help us cover running costs please get them in touch with us [hello@codebar.io](hello@codebar.io).
+
+  11. **Default description:** Here is a sample text that you can use. The only things that need to be modified are the date and the slack channel that we will use for the workshop. The description field supports HTML, that is why the text is written with the HTML tags
 
    ```
    For the virtual workshop, we will use Zoom. Download <a href="https://zoom.us/download" target="_blank">zoom</a> ahead of time .
@@ -97,10 +112,13 @@ It is important to keep your RSVP updated because it helps us properly pair stud
 If you have any issues drop us a message on slack. Welcome to the workshop and we look forward to seeing you soon!
 
    ```
-   12. **'Rsvp open local date'** and **'Rsvp open local time'** should be set to the day after the preceding workshop at 12:00. Once this date is reached, the platform will automatically start allowing RSVPs from people that navigate to the workshop page. **No mail invitations are sent at this date, or when clicking Save**.
-   4. **Leave invitable unchecked**: When checked, people can RSVP to the event and mass mails can be sent. Experience has showed us that if more than one event has the RSVP open at the same time, people get confused and don't know which event they RSVP'd to. To avoid this, we agreed not to mark the event as **invitable** until **after** the preceding workshop has been completed.
+
+  12. **'Rsvp open local date'** and **'Rsvp open local time'** should be set to the day after the preceding workshop at 12:00. Once this date is reached, the platform will automatically start allowing RSVPs from people that navigate to the workshop page. **No mail invitations are sent at this date, or when clicking Save**.
+
+  13. **Leave invitable unchecked**: When checked, people can RSVP to the event and mass mails can be sent. Experience has showed us that if more than one event has the RSVP open at the same time, people get confused and don't know which event they RSVP'd to. To avoid this, we agreed not to mark the event as **invitable** until **after** the preceding workshop has been completed.
    <kbd>![Creating a workshop in codebar.io](images/codebar-virtual.png?raw=true "Creating a worshop in codebar.io")</kbd>
-   5. **Save:** If successful, you should see a blue line with the text ```codebar: The workshop has been created.```
+
+   14. **Save:** If successful, you should see a blue line with the text ```codebar: The workshop has been created.```
 
 3. **Announce it in Slack:** Once the workshop is _invitable_ (meaning that it is the next upcoming one), announce it in #barcelona-chapter. The idea is to gives a little advantage to the Barcelona community. Students and participants enrolled in the channel will have prior notice about the open RSVP in the channel. Make sure that you copy the correct link to the event (it **must not** have the word admin on it. The best way to obtain the link is by navigating from the home page > Events). Example text:
 ```
