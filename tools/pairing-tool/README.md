@@ -18,9 +18,9 @@ This is a [first prototype of the pairing tool](https://saljuama.github.io/codeb
 
 You can download the CSV from the specific workshop from this [list of Barcelona Workshops](https://codebar.io/admin/chapters/15/workshops)
 
-Either drag and drop the file into the file selector, or click on the file selector for a file selector popup.
+And upload the CSV file, when clicking the button select the file in your file system.
 
-![Drag and drop CSV file to the pairing tool](drag-and-drop-csv.png)
+![Upload the CSV file to the pairing tool](upload-csv-file.png)
 
 ### 2. Update attendance and skills for each participant 
 
