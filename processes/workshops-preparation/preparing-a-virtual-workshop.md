@@ -63,43 +63,43 @@ This is the first platform where we need to upload the event. To do so, follow t
 
 1. **Create a New Host:** If this is the first time the sponsor hosts us, you need to add it to the platform. Otherwise jump to 2.
 
-- [ ]Login to codebar.io (you must have admin rights for the channel)
+- [ ] Login to codebar.io (you must have admin rights for the channel)
 
-- [ ]Click on **Menu** > **New Sponsor**
+- [ ] Click on **Menu** > **New Sponsor**
 
-- [ ]Fill in the data requested. You'll need a name, logo, address, and capacity (students and coaches separately).
+- [ ] Fill in the data requested. You'll need a name, logo, address, and capacity (students and coaches separately).
 
-- [ ]To confirm the sponsor was correctly added you can go to https://codebar.io/sponsors and search for it.
+- [ ] To confirm the sponsor was correctly added you can go to https://codebar.io/sponsors and search for it.
 
 
 2. **Create a New Workshop:** To do so:
 
 
-- [ ]Login to codebar.io (you must have admin rights for the channel)
+- [ ] Login to codebar.io (you must have admin rights for the channel)
 
-- [ ]Click on **Admin Menu** > **New Workshop** and fill in the requested data.
+- [ ] Click on **Admin Menu** > **New Workshop** and fill in the requested data.
 
-- [ ]**Virtual workshop check box:** Make sure that you select the checkbox so that the system knows that it is a virtual workshop.
+- [ ] **Virtual workshop check box:** Make sure that you select the checkbox so that the system knows that it is a virtual workshop.
 
-- [ ]**Slack channel:** You will need to create a slack channel dedicated specifically for the virtual workshop. In slack, click the plus icon next to channels to create the channel. You can use the following convention to name the channel
+- [ ] **Slack channel:** You will need to create a slack channel dedicated specifically for the virtual workshop. In slack, click the plus icon next to channels to create the channel. You can use the following convention to name the channel
 
 virtual-barcelona-2021-apr-08.
 
 Once you have created the channel, right click on the channel to get the link and add it to the form.  
 
-- [ ]**Set the number of students and coaches for the workshop:** Typically we set the number to 10 students and 10 coaches. We can manually change the number of allowed students if more coaches sign up. Typically we check how many people have signed up 2-3 days before the workshop begins. If there is a long waitlist of students, or if we are short on coaches, then we ask in the slack channel or through our own networks for more coaches to join.
+- [ ] **Set the number of students and coaches for the workshop:** Typically we set the number to 10 students and 10 coaches. We can manually change the number of allowed students if more coaches sign up. Typically we check how many people have signed up 2-3 days before the workshop begins. If there is a long waitlist of students, or if we are short on coaches, then we ask in the slack channel or through our own networks for more coaches to join.
 
-- [ ]**Chapter:** Barcelona
+- [ ] **Chapter:** Barcelona
 
-- [ ]**Start time:** 18:30
+- [ ] **Start time:** 18:30
 
-- [ ]**End time:** 20:40
+- [ ] **End time:** 20:40
 
-- [ ]**Host:** For virtual workshops, we don’t have a host
+- [ ] **Host:** For virtual workshops, we don’t have a host
 
-- [ ]**Sponsor:** Virtual workshops can be sponsored. If any companies are interested in making a financial contribution to codebar to help us cover running costs please get them in touch with us [hello@codebar.io](hello@codebar.io).
+- [ ] **Sponsor:** Virtual workshops can be sponsored. If any companies are interested in making a financial contribution to codebar to help us cover running costs please get them in touch with us [hello@codebar.io](hello@codebar.io).
 
-- [ ]**Default description:** Here is a sample text that you can use. The only things that need to be modified are the date and the slack channel that we will use for the workshop. The description field supports HTML, that is why the text is written with the HTML tags
+- [ ] **Default description:** Here is a sample text that you can use. The only things that need to be modified are the date and the slack channel that we will use for the workshop. The description field supports HTML, that is why the text is written with the HTML tags
 
    ```
    For the virtual workshop, we will use Zoom. Download <a href="https://zoom.us/download" target="_blank">zoom</a> ahead of time .
@@ -116,24 +116,26 @@ If you have any issues drop us a message on slack. Welcome to the workshop and w
 
    ```
 
-- [ ]**'Rsvp open local date'** and **'Rsvp open local time'** should be set to the day after the preceding workshop at 12:00. Once this date is reached, the platform will automatically start allowing RSVPs from people that navigate to the workshop page. **No mail invitations are sent at this date, or when clicking Save**.
+- [ ] **'Rsvp open local date'** and **'Rsvp open local time'** should be set to the day after the preceding workshop at 12:00. Once this date is reached, the platform will automatically start allowing RSVPs from people that navigate to the workshop page. **No mail invitations are sent at this date, or when clicking Save**.
 
-- [ ]**Leave invitable unchecked**: When checked, people can RSVP to the event and mass mails can be sent. Experience has showed us that if more than one event has the RSVP open at the same time, people get confused and don't know which event they RSVP'd to. To avoid this, we agreed not to mark the event as **invitable** until **after** the preceding workshop has been completed.
+- [ ] **Leave invitable unchecked**: When checked, people can RSVP to the event and mass mails can be sent. Experience has showed us that if more than one event has the RSVP open at the same time, people get confused and don't know which event they RSVP'd to. To avoid this, we agreed not to mark the event as **invitable** until **after** the preceding workshop has been completed.
 
    <kbd>![Creating a workshop in codebar.io](images/codebar-virtual.png?raw=true "Creating a worshop in codebar.io")</kbd>
 
-- [ ]**Save:** If successful, you should see a blue line with the text ```codebar: The workshop has been created.```
+- [ ] **Save:** If successful, you should see a blue line with the text ```codebar: The workshop has been created.```
 
 3. **Announce it in Slack:** Once the workshop is _invitable_ (meaning that it is the next upcoming one), announce it in #barcelona-chapter. The idea is to gives a little advantage to the Barcelona community. Students and participants enrolled in the channel will have prior notice about the open RSVP in the channel. Make sure that you copy the correct link to the event (it **must not** have the word admin on it. The best way to obtain the link is by navigating from the home page > Events). Example text:
+
 ```
 Hello channel: RSVP for next week (24th/January) workshop is now open. #Thoughtworks will sponsor us. :parrot:
 https://codebar.io/workshops/1069 Book your spot now. Special offer for #barcelona-chapter members. We will send official mail invitations tomorrow.
 ```  
+
 4. **Send mail invitations**: The day after bullet 3. send invitations by mail to all subscribers. To do so:
 
-- [ ]Login to codebar.io (you must have admin rights for the channel)
+- [ ] Login to codebar.io (you must have admin rights for the channel)
 
-- [ ]Click on **Menu** > **Barcelona** > **All workshops** > **Click the workshop link** > **Invite** > Click one of the options.
+- [ ] Click on **Menu** > **Barcelona** > **All workshops** > **Click the workshop link** > **Invite** > Click one of the options.
 
 * Note: Invitations are sent only once to each subscriber. If you click invite more than once, the second time, only the new subscribers to Barcelona chapter will get a mail invitation.
 
@@ -153,6 +155,7 @@ After creating the event in codebar.io, you should add it in Facebook. To do so:
 
 #### Example description
 Replace XXXXX and HOST_URL by the correct values
+
 ```
 Learn to program in 2019! Join us for a free programming workshop at XXXXX
 
