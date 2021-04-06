@@ -5,11 +5,12 @@ The goal of this page is to describe **the way we do things** to ease our daily 
 ## Organizers processes
 
 * [Monthly meetings](org-monthly-meetings/org-monthly-meetings.md): These meetings aim to share the status of the ongoing activities and present new ideas.
-* [New Organizers onboarding](onboarding-new-organizers/on-boarding-process.md): This is a checklist of actions to complete when a new organizer joins the team. 
+* [New Organizers onboarding](onboarding-new-organizers/on-boarding-process.md): This is a checklist of actions to complete when a new organizer joins the team.
 * Ad-hoc workshops: These are special (normally one-off) activities to tackle specific topics within the organizers.
 
 ## Events processes
 
-* [Setting up an event](workshops-preparation/preparing-a-workshop.md): This guideline provides a step-by-step support for creating an event in codebar.io site and in the local social media resources.
-* [Host selection](host-selection/host-prioritization.md): For presential workshops, these are the guidelines to prioritize to which hosts we propose the dates to hold the workshop.
-* Event Introduction talk: This is a guideline for the presentation talk in the workshops.
+* [Setting up an in-person workshop](workshops-preparation/preparing-a-workshop.md): This guideline provides a step-by-step support for creating an event on the codebar.io site and on the social media platforms.
+* [Setting up a virtual workshop](workshops-preparation/preparing-a-virtual-workshop.md): This guideline provides a step-by-step support for creating a virtual workshop on the codebar.io site and on the social media platforms.
+* [Host selection](host-selection/host-prioritization.md): For in-person workshops, these are the guidelines we use to prioritize which hosts we propose workshops to.
+* [Event Introduction talk](workshops-preparation/script-presentation.md): This is a guideline to prepare the short presentation we give before each workshop.
