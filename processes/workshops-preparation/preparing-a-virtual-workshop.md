@@ -101,10 +101,10 @@ Once you have created the channel, right click on the channel to get the link an
 
 - [ ] **Default description:** Here is a sample text that you can use. The only things that need to be modified are the date and the slack channel that we will use for the workshop. The description field supports HTML, that is why the text is written with the HTML tags
 
-   ```
-   For the virtual workshop, we will use Zoom. Download <a href="https://zoom.us/download" target="_blank">zoom</a> ahead of time .
-We will send the zoom login details <strong> at 6 pm on
-Add Date Here </strong>, via the following <a href="Add Slack Channel Link" target="_blank">slack channel</a>.
+```
+For the virtual workshop, we will use Zoom. Download <a href="https://zoom.us/download" target="_blank">zoom</a> ahead of time .
+
+We will send the zoom login details <strong> at 6 pm on Add Date Here </strong>, via the following <a href="Add Slack Channel Link" target="_blank">slack channel</a>.
 <br>
 Slack is the main place we use for updates and announcements, make sure that you have signed up and check the channel, especially on the day of the workshop.
 <br>
@@ -113,8 +113,7 @@ If you cannot attend the workshop, please let us know before noon on the day of 
 It is important to keep your RSVP updated because it helps us properly pair students and coaches. To avoid spammers entering the zoom call, everyone will be in a waiting room before the call starts.
 <br>
 If you have any issues drop us a message on slack. Welcome to the workshop and we look forward to seeing you soon!
-
-   ```
+```
 
 - [ ] **'Rsvp open local date'** and **'Rsvp open local time'** should be set to the day after the preceding workshop at 12:00. Once this date is reached, the platform will automatically start allowing RSVPs from people that navigate to the workshop page. **No mail invitations are sent at this date, or when clicking Save**.
 
