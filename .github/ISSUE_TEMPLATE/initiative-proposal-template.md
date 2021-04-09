@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+(Reminder - can delete this before creating the ticket ) 
+* Assign the issue to someone 
+* Add the Project "Initiatives - Monthly meetings" to the issue
+
 ## Description 
 
 Provide some context and / or a short description of the initiative  
