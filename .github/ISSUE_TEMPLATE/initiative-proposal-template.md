@@ -2,7 +2,7 @@
 name: Initiative proposal template
 about: Template to add a new initiative to the monthly meetings project
 title: ''
-labels: proposal
+labels: ''
 assignees: ''
 
 ---
