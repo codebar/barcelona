@@ -248,6 +248,6 @@ If the event was sponsored send a _thank you_ e-mail to the sponsor. In this com
 
 + **In Trello:** Check the corresponding item in the `After the workshop` section.
 
-### Sending attendance email to those who did attend.
+### Sending attendance email to those who did not attend.
 
 TBD
