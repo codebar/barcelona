@@ -37,7 +37,7 @@ We use tweetdeck to manage the codebarBCN twitter account. Make sure that you lo
 
 **Facebook:**
 
-You will need to be logged in to your facebook account. Next Go to the [codebar facebook page](http://bit.ly/2Vambc7). Select the settings menu located on the top right hand side. Next select page roles. Type in the name or email address of the new organizer you want to add in the "Assign a New Page Role" field. Makes sure that you select the "Admin" role and then click Add.  
+You will need to be logged in to your facebook account. Next Go to the [codebar facebook page](http://bit.ly/2Vambc7). Select the settings menu located on the right hand side at the very bottom. Next select page roles(it is also located on the righthand side menu as an icon.) Type in the name or email address of the new organizer you want to add in the "Assign a New Page Role" field. Makes sure that you select the "Admin" role and then click Add.  
 
 **Instagram:**
 
