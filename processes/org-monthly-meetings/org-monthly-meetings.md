@@ -19,47 +19,16 @@ When proposing a new initiative to work on, and also when voting for their aprov
 ## Before a meeting
 
 In order to make good use of everyone's time, people should do their best to: 
-* Update the status of the `on-going` initiatives by adding comments in the issues, specially if you can't attend
-* Add new issues or PRs for new proposal of initiatives, assign them to someone and link them to the [Initiatives - Monthly Meetings](../projects/2) project
-* Add a new proposal for improvement in the trello board 
+* Update the status of the `On Going` initiatives by adding comments in the issues, specially if you can't attend
+* [Add new issues](https://github.com/codebar/barcelona/issues/new?assignees=&labels=&template=initiative-proposal-template.md&title=) for new proposal of initiatives, assign them to someone and link them to the [Initiatives - Monthly Meetings](../projects/2) project
+* Add a new proposal for improvement in the trello board  (this is our replacement for retrospectives :yum:)
 * Inform the next monthly facilitator if they can't attend
-
-Additionally, the facilitator should also: 
-* At least one week before the meeting, check people's availability for the meeting, if not enough people can make it, then coordinate the rescheduling to another day.
-* Check initiative proposals in the `New` column and put them in the column `Next Month Meeting - New` if they have (if they don't ping the organiser who created the issue): 
-  * an asignee
-  * a description or clear name
-  * a checklist of actions
 
 ## During the meeting
 
-Given that the meeting liast 1 hour (unless attendants agree to extend), the facilitator of the meeting is in charge of leading the meeting so that:
-* an item (if any) from the continuous improvement column has been discussed
-* every `on-going` initiatives status has been presented
-* the initiatives in `Next Month Meeting - New` has been validated or rejected
+Given that the meeting last 1 hour (unless attendants agree to extend), the facilitator of the meeting is in charge of leading the meeting so that:
+* one item (if any) from the continuous improvement column has been discussed
+* every `On Going` initiatives status has been presented and updated
+* the initiatives in `New` has been validated (and moved to `Pause` or `On Going`) or rejected 
+* check if there is any initiative on `Pause` that wants to be revisited
 * a new facilitator has been found for the next monthly meeting
-
-Process:
-
-1. Continuous Improvement: 
- * From the trello board, check if there are new contiunous improvement items
- * If there are more than one, vote to pick the one to discuss this meeting
- * Discuss the item and then aprove/reject the item, if aproved, define an action item and assign it to someone
-
-2. Review `on-going` Initiatives, for each initiative:
- * Let the owner present the status, or read the last comment in the issue if no owner is present. Initiative status should answer:
-  * What are the relevant latests accomplishments for the initiative?
-  * What is blocking the initiative to move forward?
-  * What are the planned next steps?
- * Decide if the initiative stays in `on-going` or if it is moved to `paused` or `closed`.
-
-3. Validate new initiative proposals in the `Next Month Meeting - New` column, for each new proposal: 
- * Let the owner introduce and explain the proposal
- * Vote the proposal based on if the proposal is aligned with the codebar mission 
-  * If aproved and decided to start right away, move to `on-going` and add the interested asignees
-  * If aproved but defered, move to `pause`
-  * If vetoed, move to `rejected`
-
-4. Review the `pause` column to reevaluate if there is any initiative that can be unpaused and is there anyone who can move it forward.
-
-5. Define the next monthly meeting facilitator, add a comment in the last issue (#68) of the `on-going` column 
