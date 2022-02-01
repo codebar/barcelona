@@ -45,6 +45,11 @@ You will need to be logged in to your facebook account. Next Go to the [codebar 
 
 Before you start, make sure that the new organizer has joined the Barcelona Meetup page as a regular member. Login to your meetup account. Next go to the [codebar meetup page](https://www.meetup.com/Codebar-Barcelona/). Click on the "members" menu tab. Next select the "Customize member roles" option. After that click on "Co-organizer". You will see a list of the current co-organizers, click on the Add member button. Type in the name of the organizer you want to add, and click add.  
 
+## Update your Slack profile
+
+- Update your slack profile, in the section `What I do` with: Organiser of codebar Barcelona
+- Update your status, using the codebar icon
+
 ## Codebar Induction
 
 We want new codebar organizers to feel welcome and to have a smooth on-boarding process. In the past, we did not have a formal method of on-boarding a new organizer. This made it frustrating and hard for new organizers to figure out how to contribute.
