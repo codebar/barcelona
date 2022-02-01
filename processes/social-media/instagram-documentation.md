@@ -50,7 +50,7 @@ Once you are satisfied with all of your edits, tap on the Your Story button on t
 <h2>Instagram Reels </h2>
 Reels focus more on short video clips and they stay on your instagram account. One of the benefits of reels is that they make our content discoverable by other Instagram users who are not necessarily following the codebar instagram account. Reels let you record or edit clips for a video that can be 30 seconds long. You can also apply effects and music to the video.
 
-Some people use reels to create short instructional videos  
+Some people use reels to create short instructional videos.  
 
 
 <h3>How to create a reel </h3>
