@@ -3,8 +3,8 @@
 This is meant as a guide to help you prepare for the MC (master of ceremonies) role. Feel free to customize the points below.
 
 * Welcome everyone
-* I am <your name>, I am a ... and one of the organizers of codebar Barcelona.
-* Introduce the other codebar barcelona chapter organizers present and not present.
+* I am `<your name>`, I am a `<front end/mentor>` and one of the organizers of codebar Barcelona.
+* Introduce the other codebar Barcelona chapter organizers present and not present.
 * Welcome any new members (on the codebar.io page there is a small paw icon next to the name of new members).
 * Present codebar, what we want and how we plan to achieve it (Codebar is a UK based charity. We now have chapters all across the world. The mission of codebar is to help underrepresented groups learn to program in a safe and collaborative environment.)
 * Slack channel: explain that we have a slack channel. People should join the Barcelona channel. We let people who are in the Barcelona slack RSVP for workshops 1 day before sending the invitations out to the general public. We also have a #barcelona-social and a #helpdesk channel where people can get help in between workshops.  
